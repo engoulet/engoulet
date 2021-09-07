@@ -6,7 +6,9 @@ or are linked below (for repos that I am a contributor for, but do not own).
 
 https://github.com/rossquentin/CS3141
 - Clone of the popular forum site Reddit
+
 https://github.com/tjbecker101/Database_Project
 - Small project based on a university's instructor-student course website 
+
 https://github.com/engoulet/PersonalProjects
 - Small personal projects
