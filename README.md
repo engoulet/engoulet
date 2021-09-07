@@ -1,16 +1,12 @@
-### Hi there 👋
+### About Me:
 
-<!--
-**engoulet/engoulet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Several of the large projects I have taken part in can be found here! Some small personal projects I have done can be found 
+in the "Personal Projects" repository (repo), while the repos for other projects I have completed can either be found on my profile, 
+or are linked below (for repos that I am a contributor for, but do not own).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://github.com/rossquentin/CS3141
+- Clone of the popular forum site Reddit
+https://github.com/tjbecker101/Database_Project
+- Small project based on a university's instructor-student course website 
+https://github.com/engoulet/PersonalProjects
+- Small personal projects
